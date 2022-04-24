@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Miclone_parag/static/css/main.d7352449.css",
+    "main.js": "/Miclone_parag/static/js/main.dac66289.js",
+    "index.html": "/Miclone_parag/index.html",
+    "main.d7352449.css.map": "/Miclone_parag/static/css/main.d7352449.css.map",
+    "main.dac66289.js.map": "/Miclone_parag/static/js/main.dac66289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7352449.css",
+    "static/js/main.dac66289.js"
+  ]
+}
